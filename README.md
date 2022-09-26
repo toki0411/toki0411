@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @toki0411
+## README
+
+### Hello, I'm toki0411!
 - 👀 I’m interested in Algorithm 
 - 🌱 I’m currently learning 
 - 📫 How to reach me toki0411@donga.ac.kr
@@ -9,4 +11,10 @@
 toki0411/toki0411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+## Summary
+<p align ="left">
+<img align="center" src="/github-metrics-toki0411-main.svg" alt="Metrics" width="500">
+</p>
 
