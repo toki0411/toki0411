@@ -3,7 +3,7 @@
 ### Hello, I'm toki0411!
 - 👀 I’m interested in Algorithm 
 - 🌱 I’m currently learning 
-- 📫 How to reach me toki0411@donga.ac.kr
+- 📫 How to reach me 2024411@donga.ac.kr
 - [blog](https://toki0411.tistory.com/) 
 - [profile](https://www.notion.so/03c32a25e76a40bfaaa81d6b5b146078)
 - [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toki0411)](https://solved.ac/toki0411/)
